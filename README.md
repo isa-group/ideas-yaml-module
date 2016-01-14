@@ -1,6 +1,6 @@
 # IDEAS-YAML-MODULE
 
-IDEAS-YAML-MODULE is a web project taht provides a languague for ideas-studio.
+IDEAS-YAML-MODULE is a web project that provides a languague for ideas-studio.
 
 ##YAML
 

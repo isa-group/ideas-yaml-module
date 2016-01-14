@@ -1,6 +1,5 @@
 package es.us.isa.ideas.controller.sample;
 
-
 import es.us.isa.ideas.module.common.AppResponse;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -8,6 +7,14 @@ import es.us.isa.ideas.module.controller.BaseLanguageController;
 import es.us.isa.ideas.util.yaml.Util;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
+
+/**
+ * Applied Software Engineering Research Group (ISA Group) University of
+ * Sevilla, Spain
+ *
+ * @author Manuel Arenillas <marenillas@us.es>
+ * @version 1.0
+ */
 
 @Controller
 @RequestMapping("/language")
