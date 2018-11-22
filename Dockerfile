@@ -13,5 +13,5 @@ ADD ./tomcat-config/web.xml ./conf/web.xml
 # Add war to webapps
 ADD *.war ./webapps/
 
-EXPOSE 443 80
+EXPOSE 80
 CMD cd /usr/local/tomcat && ./bin/catalina.sh run
