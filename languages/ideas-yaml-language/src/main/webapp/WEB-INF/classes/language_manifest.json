@@ -20,6 +20,15 @@
             "checkLanguage": "false"
         }
     ],
+    "operations": [
+        {
+            "id": "buidAgreement",
+            "name": "Build agreement",
+            "data": {},
+            "_remoteExecution": "false",
+            "action": "function(operation, fileUri, result) {console.log(result);}"
+        }
+    ],
     "templateProjects": null,
     "templateFiles": null,
     "inspectorLoader": "function(loader, format) {}"

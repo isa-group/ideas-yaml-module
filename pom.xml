@@ -8,6 +8,7 @@
     <name>ideas-yaml-module</name>
 
     <modules>
+        <module>languages/ideas-oai-spec-language</module>
         <module>languages/ideas-yaml-language</module>
     </modules>
     <properties>
